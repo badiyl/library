@@ -1,4 +1,8 @@
 <?php
+/*
+* For manipulate array
+*
+*/
 class Arrays
 {
 	private $array;
