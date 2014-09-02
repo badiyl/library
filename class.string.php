@@ -1,4 +1,9 @@
 <?php
+/*
+*
+* this class use for manipulate string 
+*
+*/
 class String
 {
 	private $string;
