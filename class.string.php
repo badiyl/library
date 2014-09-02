@@ -2,6 +2,7 @@
 /*
 *
 * this class use for manipulate string 
+* string
 *
 */
 class String
