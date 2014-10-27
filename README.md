@@ -7,8 +7,4 @@ A PHP class for date object type in PHP, with many function helper and method.
 ### PHP CLASS ARRAY
 A PHP class for array manipulation in PHP.
 ### PHP CLASS STRING
-<<<<<<< HEAD
-A PHP class for string.
-=======
 A PHP class for string manipulation in PHP.
->>>>>>> a9e70bea7e498c734c61d4f94407a660058a788a
